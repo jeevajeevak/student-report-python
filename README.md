@@ -52,5 +52,4 @@ Name  Marks
 
 ## Developer
 **Jeeva K**  
-Automation Engineer | Vision Engineer | Python Developer  
 [LinkedIn](https://www.linkedin.com/in/jeeva-k-80065b353)
